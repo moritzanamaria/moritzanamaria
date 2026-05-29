@@ -1,5 +1,9 @@
 # 🚀 Welcome to Anamaria's Frontend Launchpad!
 
+![Git](https://shields.io) 
+![GitHub](https://shields.io)
+![Edunova](https://shields.io)
+
 Hi! I'm Anamaria, a frontend student at **Edunova in Osijek**. 
 
 If you are looking for complete websites, complex structures, or fancy CSS animations, you are a bit too early! I am at the absolute starting line of my IT journey. Before I write my first line of web code, I am learning how to use the developer's ultimate time machine: **Git**.
