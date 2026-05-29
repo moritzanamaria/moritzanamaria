@@ -1,8 +1,5 @@
 # 🚀 Welcome to Anamaria's Frontend Launchpad!
 
-![Git](https://shields.io) 
-![GitHub](https://shields.io)
-![Edunova](https://shields.io)
 
 Hi! I'm Anamaria, a frontend student at **Edunova in Osijek**. 
 
