@@ -18,10 +18,6 @@ Instead of copying a long list of technologies, here is the exact Git workflow I
 - [x] Push my first updates to GitHub (Like this profile!).
 - [ ] Start learning HTML and layout structures (Coming soon...).
 
----ss 
-git commit -am "Obrisan neispravan kod i ociscen profil"
-git push
-
 
 💬 **Fun fact:** The fact that you are reading this text means my `git commit` and `git push` worked perfectly without exploding the terminal! 🎉 Thanks for stopping by to check out my launchpad! 🏎️💨
 
