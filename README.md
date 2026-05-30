@@ -18,6 +18,7 @@ Instead of copying a long list of technologies, here is the exact Git workflow I
 - [x] Push my first updates to GitHub (Like this profile!).
 - [ ] Start learning HTML and layout structures (Coming soon...).
 
+![Moja GitHub Statistika](https://github-readme-stats.vercel.app/api?username=moritzanamaria&show_icons=true&theme=radial&hide_border=true)
 
 💬 **Fun fact:** The fact that you are reading this text means my `git commit` and `git push` worked perfectly without exploding the terminal! 🎉 Thanks for stopping by to check out my launchpad! 🏎️💨
 
