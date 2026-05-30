@@ -1,8 +1,4 @@
-
-#[Garden Banner](https://capsule-render.vercel.app/type=waving&color=355E3B&height=150&section=header&text=Welcome%20to%20Anamarias%20frontend%20launchpad&fontSize=30&fontColor=ffffff)
-
-
-
+# 🚀 Welcome to Anamaria's Frontend Launchpad!
 
 Hi! I'm Anamaria, a frontend student at **Edunova in Osijek**. 
 
