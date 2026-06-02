@@ -20,4 +20,3 @@ Instead of copying a long list of technologies, here is the exact Git workflow I
 
 💬 **Fun fact:** The fact that you are reading this text means my `git commit` and `git push` worked perfectly without exploding the terminal! 🎉 Thanks for stopping by to check out my launchpad! 🏎️💨
 
--->
