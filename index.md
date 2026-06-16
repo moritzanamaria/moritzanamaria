@@ -10,7 +10,7 @@ Naučila sam kako sigurno upravljati promjenama u kodu i surađivati na projekti
 
 * **Osnovni workflow:** git clone, git push i git pull.
 * **Pojmovi:** Razumijem razliku između Centraliziranih i Distribuiranih sustava te kako GitHub služi kao platforma za pohranu repozitorija.
-* **Alati:** Uspješno koristim Command Prompt i VS Code za rad.
+* **Alati:** Uspješno koristim Command Prompt i VS Code.
 
 ### 🌐 HTML (Struktura)
 
