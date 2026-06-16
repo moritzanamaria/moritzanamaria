@@ -7,7 +7,7 @@ Naučila sam kako sigurno upravljati promjenama u kodu i surađivati na projekti
 
 Osnovni workflow: git clone, git push i git pull.
 
-Pojmovi: Razumijem razliku između Centraliziranih i Distribuiranih sustava te ulogu GitHub-a kao platforme za pohranu repozitorija.
+Pojmovi: Razumijem razliku između Centraliziranih i Distribuiranih sustava te kako GitHub služi kao platforma za pohranu repozitorija.
 
 Alati: Uspješno koristim Command Prompt i VS Code za rad.
 
@@ -19,9 +19,7 @@ Anatomija dokumenta: Razumijem ulogu DOCTYPE, head (metapodaci) i body sekcija.
 Validacija: Provjeravam ispravnost koda putem W3C Validatora.
 
 🎨 CSS (Vizualni izgled)
-Opisujem vizualni identitet stranica:
-
-Povezivanje: Znam napraviti CSS datoteku i uspješno je povezati s odgovarajućim HTML dokumentom.
+Povezivanje: Znam napraviti CSS datoteku i povezati ju s odgovarajućim HTML-om.
 
 📈 Status učenja
 [x] Git: Osnove verzioniranja i rada u terminalu.
@@ -30,6 +28,4 @@ Povezivanje: Znam napraviti CSS datoteku i uspješno je povezati s odgovarajući
 
 [x] CSS: Selektori, kaskadnost i mjerni sustavi.
 
-[ ] Napredni projekti: CSS animacije i kompleksni layouti (Uskoro!)
-
-Hvala na posjeti! 
+[ ] Napredni projekti: CSS animacije i kompleksni layouti (Uskoro!).
