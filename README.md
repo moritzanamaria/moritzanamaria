@@ -1,22 +1,35 @@
-# 🚀 Welcome to Anamaria's Frontend Launchpad!
+🚀 Anamaria's Frontend Launchpad
 
-Hi! I'm Anamaria, a frontend student at **Edunova in Osijek**. 
+Bok! Ja sam Anamaria, polaznica edukacije za Frontend programiranje u Edunovi (Osijek). Ovaj repozitorij je moja digitalna radna bilježnica u kojoj pratim svoj napredak — od prvih Git naredbi do strukturiranja weba.
+🛠️ Što sam do sada savladala?
+🐙 Git & GitHub (Verzioniranje)
 
-If you are looking for complete websites, complex structures, or fancy CSS animations, you are a bit too early! I am at the absolute starting line of my IT journey. Before I write my first line of web code, I am learning how to use the developer's ultimate time machine: **Git**.
+Naučila sam kako sigurno upravljati promjenama u kodu i surađivati na projektima:
 
-### 🛠️ What I Can Do So Far (Tested & Working!)
-Instead of copying a long list of technologies, here is the exact Git workflow I've mastered during my first days at Edunova:
-- 📥 **`git clone`** – I know how to grab a repository from GitHub and bring it down to my computer.
-- 📝 **Modifying Files** – Opening up files, changing lines of text, and saving my progress.
-- 💾 **`git commit`** – Taking a snapshot of my changes and writing a meaningful message about what I did.
-- 🚀 **`git push`** – Sending my updated files straight back here to the cloud.
+    Osnovni workflow: git clone, git push i git pull.
 
-### 📈 Current Status & Next Steps
-- [x] Learn how to clone a repository.
-- [x] Modify text files and track changes.
-- [x] Push my first updates to GitHub (Like this profile!).
-- [ ] Start learning HTML and layout structures (Coming soon...).
+    Pojmovi: Razumijem razliku između Centraliziranih i Distribuiranih sustava te kako GitHub služi kao platforma za pohranu repozitorija.
 
+    Alati: Uspješno koristim Command Prompt i VS Code za rad.
 
-💬 **Fun fact:** The fact that you are reading this text means my `git commit` and `git push` worked perfectly without exploding the terminal! 🎉 Thanks for stopping by to check out my launchpad! 🏎️💨
+🌐 HTML (Struktura)
 
+Definiram značenje i strukturu sadržaja koristeći HTML5 standarde:
+
+    Anatomija dokumenta: Razumijem ulogu DOCTYPE, head (metapodaci) i body sekcija.
+
+    Validacija: Provjeravam ispravnost koda putem W3C Validatora.
+
+🎨 CSS (Vizualni izgled)
+
+    Znam napraviti CSS datoteku i povezati ju s odgovarajucim HTML-om
+
+📈 Status učenja
+
+    [x] Git: Osnove verzioniranja i rada u terminalu.
+
+    [x] HTML: Anatomija dokumenata i semantika.
+
+    [x] CSS: Selektori, kaskadnost i mjerni sustavi.
+
+    [ ] Napredni projekti: CSS animacije i kompleksni layouti (Uskoro!).
